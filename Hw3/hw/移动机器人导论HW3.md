@@ -82,3 +82,13 @@ $$
 
 在完成$\Sigma_{p'}$的递推公式后，我们得到叉车运动的协方差矩阵$\Sigma(t)$。对每一时刻的协方差矩阵进行特征分解，得到$x,y$方向上的特征值和特征向量，将特征向量归一化，作为方向，特征值大小作为长度绘制椭圆。再结合Hw2中的小车运动，基于Python3.7实现了小车运动和误差传递的仿真动画。
 
+> 源码和GIF动画见https://github.com/RENyunfan/mobileRobot
+
+### Test1
+
+<img src="/Users/skymac/Documents/Course/移动机器人导论/Hw3/移动机器人导论HW3.assets/image-20201210132401849.png" alt="image-20201210132401849" style="zoom:23%;" />
+
+### Test2
+
+<img src="/Users/skymac/Documents/Course/移动机器人导论/Hw3/移动机器人导论HW3.assets/image-20201210132419543.png" alt="image-20201210132419543" style="zoom:23%;" />
+
