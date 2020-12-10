@@ -6,11 +6,17 @@ Waiting
 
 ### HW 2
 
-The animation is shown below in gif
+The animation is shown in gif below:
 
-![](./HW2_controller_for_constrained_robot/animation.gif)
+![](./Hw2/images/animation.gif)
+
+### HW3
+
+The animation is shown in gif below:
+
+![](./Hw3/images/hw3_1.gif)
 
 
 
-
+![](./Hw3/images/hw3_2.gif)
 
